@@ -1,0 +1,151 @@
+{
+  "slug": "about",
+  "sections": [
+    {
+      "section": "hero_image",
+      "title": "Design and Innovation",
+      "image": {
+        "src": "images/hero-about.jpg",
+        "alt": "LDA LLC About Page"
+      }
+    },
+    {
+      "section": "quote_block",
+      "copy": "We’re a design studio dedicated to creating products and services that change the market."
+    },
+    {
+      "section": "full_width_image",
+      "src": "images/about-1.jpg",
+      "alt": ""
+    },
+    {
+      "section": "copy_block",
+      "text_blocks": [
+        "Our work is created by putting entrepreneurs in close contact with a team of designers with expertise in physical and digital product design, engineering, brand identity, user experience, graphic design, and packaging.",
+        "We work across these disciplines to transform great ideas into satisfying, personal experiences that contribute to the business success of our clients."
+      ]
+    },
+    {
+      "section": "full_width_image",
+      "src": "images/about-1.jpg",
+      "alt": ""
+    },
+    {
+      "section": "copy_block",
+      "text_blocks": [
+        "We identify each client’s unique and ownable brand promise and then bringing together the design disciplines necessary to look out and in and ahead, of inventing meaningful new products, and, on occasion, entirely new categories."
+      ]
+    },
+    {
+      "section": "full_width_image",
+      "src": "images/about-2.jpg",
+      "alt": ""
+    },
+    {
+      "section": "copy_block",
+      "text_blocks": [
+        "Clients returning to us over and over again because we solve these complex problems; by rapid prototyping and passionate pioneering; acquiring invaluable lessons from our failures as well our successes, and of applying those learnings to reduce risk for our clients and increase their chance for success."
+      ]
+    },
+    {
+      "section": "clients_block",
+      "list": [
+        {
+          "src": "images/clients/simplehuman.svg",
+          "alt": "Simple Human"
+        },
+        {
+          "src": "images/clients/harmon-kardon.svg",
+          "alt": "Harmon/Kardon"
+        },
+        {
+          "src": "images/clients/infinity.svg",
+          "alt": "Infinity"
+        },
+        {
+          "src": "images/clients/jbl.svg",
+          "alt": "JBL"
+        },
+        {
+          "src": "images/clients/krups.svg",
+          "alt": "KRUPS"
+        },
+        {
+          "src": "images/clients/bosch.svg",
+          "alt": "BOSCH"
+        },
+        {
+          "src": "images/clients/starbucks.svg",
+          "alt": "Starbucks"
+        },
+        {
+          "src": "images/clients/pioneer.svg",
+          "alt": "Pioneer"
+        },
+        {
+          "src": "images/clients/capresso.svg",
+          "alt": "Capresso"
+        },
+        {
+          "src": "images/clients/jl-audio.svg",
+          "alt": "JL Audio"
+        },
+        {
+          "src": "images/clients/braun.svg",
+          "alt": "Braun"
+        },
+        {
+          "src": "images/clients/takeya.svg",
+          "alt": "Takeya"
+        }
+      ]
+    },
+    {
+      "section": "copy_block",
+      "text_blocks": [
+        "We’ve been recognized with 80+ product design awards including the international Red Dot Design Award."
+      ]
+    },
+    {
+      "section": "awards_block",
+      "list": [
+        {
+          "src": "images/awards/idea.svg",
+          "alt": "idea"
+        },
+        {
+          "src": "images/awards/design-preis.svg",
+          "alt": "Design Preis"
+        },
+        {
+          "src": "images/awards/ces.png",
+          "alt": "CES"
+        },
+        {
+          "src": "images/awards/award.svg",
+          "alt": "award"
+        },
+        {
+          "src": "images/awards/good-design.svg",
+          "alt": "Good Design"
+        },
+        {
+          "src": "images/awards/eisa.svg",
+          "alt": "EISA"
+        },
+        {
+          "src": "images/awards/mdea.svg",
+          "alt": "Medical Design Excellence Awards"
+        },
+        {
+          "src": "images/awards/iha.svg",
+          "alt": "International Housewares Association"
+        }
+      ]
+    },
+    {
+      "section": "quote_block",
+      "copy": "What's your next big step?"
+    }
+  ]
+}

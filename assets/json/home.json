@@ -1,0 +1,140 @@
+{
+  "slug": "home",
+  "title": "home",
+  "sections": [
+    {
+      "section": "hero_carousel",
+      "list": [
+        {
+          "title": "Design the everyday",
+          "client": "simplehuman",
+          "image": {
+            "src": "images/casestudy/hero-simplehuman.png",
+            "alt": ""
+          },
+          "link": {
+            "copy": "View case study",
+            "link": "/work/simplehuman"
+          }
+        }
+      ]
+    },
+    {
+      "section": "quote_block",
+      "copy": "LDA is a design and innovation consultancy. We create products and experiences that connect people with brands."
+    },
+    {
+      "section": "case_studies",
+      "list": [
+        {
+          "link": {
+            "copy": "",
+            "link": "/work/simplehuman"
+          },
+          "image": {
+            "src": "images/casestudy/thumb-1.jpg"
+          }
+        },
+        {
+          "link": {
+            "copy": "",
+            "link": "/work/simplehuman"
+          },
+          "image": {
+            "src": "images/casestudy/thumb2.jpg"
+          }
+        },
+        {
+          "link": {
+            "copy": "",
+            "link": "/work/simplehuman"
+          },
+          "image": {
+            "src": "images/casestudy/thumb3.jpg"
+          }
+        },
+        {
+          "link": {
+            "copy": "",
+            "link": "/work/simplehuman"
+          },
+          "image": {
+            "src": "images/casestudy/thumb4.jpg"
+          }
+        },
+        {
+          "link": {
+            "copy": "",
+            "link": "/work/simplehuman"
+          },
+          "image": {
+            "src": "images/casestudy/thumb5.jpg"
+          }
+        },
+        {
+          "link": {
+            "copy": "",
+            "link": "/work/simplehuman"
+          },
+          "image": {
+            "src": "images/casestudy/thumb6.jpg"
+          }
+        },
+        {
+          "link": {
+            "copy": "",
+            "link": "/work/simplehuman"
+          },
+          "image": {
+            "src": "images/casestudy/thumb7.jpg"
+          }
+        },
+        {
+          "link": {
+            "copy": "",
+            "link": "/work/simplehuman"
+          },
+          "image": {
+            "src": "images/casestudy/thumb8.jpg"
+          }
+        },
+        {
+          "link": {
+            "copy": "",
+            "link": "/work/simplehuman"
+          },
+          "image": {
+            "src": "images/casestudy/thumb-1.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "section": "news_block",
+      "title": "News",
+      "list": [
+        {
+          "title": "Good Design Awards (Chicago)",
+          "link": {
+            "copy": "LDA is honored with design awards for simplehuman and Infinity",
+            "link": "/news/"
+          }
+        },
+        {
+          "title": "International Houswares Association",
+          "link": {
+            "copy": "simplehuman receives Global Innovation Awards from IHA",
+            "link": "/news/"
+          }
+        },
+        {
+          "title": "Red Dot Design Award",
+          "link": {
+            "copy": "JBL Club Amp receives international design award",
+            "link": "/news/"
+          }
+        }
+      ]
+    }
+  ]
+}

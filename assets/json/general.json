@@ -1,0 +1,81 @@
+{
+  "slug": "general",
+  "menu": {
+    "navigation": [
+      {
+        "copy": "work",
+        "link": "/work/simplehuman"
+      },
+      {
+        "copy": "about",
+        "link": "/about"
+      },
+      {
+        "copy": "news",
+        "link": "/news"
+      },
+      {
+        "copy": "contact",
+        "reveal": "info"
+      }
+    ]
+  },
+  "info": [
+    {
+      "title": "LDA",
+      "type": "text",
+      "copy": "16511 Scientiﬁc Way Suite 200 Irvine, CA 92618"
+    },
+    {
+      "title": "New Business",
+      "type": "links",
+      "links": [
+        {
+          "copy": "newbusiness@ldallc.com",
+          "link": "mailto:newbusiness@ldallc.com"
+        }
+      ]
+    },
+    {
+      "title": "General",
+      "type": "links",
+      "links": [
+        {
+          "copy": "hello@ldallc.com",
+          "link": "mailto:hello@ldallc.com"
+        },
+        {
+          "copy": "+1.949.753.1482",
+          "link": "tel:19497531482"
+        }
+      ]
+    }
+  ],
+  "social_links": [
+    {
+      "id": "facebook",
+      "copy": "Facebook",
+      "link": "https://www.facebook.com/"
+    },
+    {
+      "id": "instagram",
+      "copy": "Instagram",
+      "link": "https://www.instagram.com/"
+    },
+    {
+      "id": "twitter",
+      "copy": "Twitter",
+      "link": "https://twitter.com/"
+    }
+  ],
+  "footer": {
+    "title": "Contact Us",
+    "copyright": "© 2019 LDA LLC All rights reserved.",
+    "footer_links": [
+      {
+        "copy": "Privacy Policy",
+        "link": "http://www.google.com"
+      }
+    ]
+  }
+}

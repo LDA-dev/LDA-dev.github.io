@@ -1,0 +1,66 @@
+{
+  "slug": "work/simplehuman",
+  "title": "work",
+  "sections": [
+    {
+      "section": "hero_image",
+      "title": "",
+      "image": {
+        "src": "images/casestudy/simplehuman/hero.jpg",
+        "alt": "Simple Human"
+      }
+    },
+    {
+      "section": "copy_block",
+      "text_blocks": [
+        "<span class='title'>Simplehuman<br/>Foam Cartridge Sensor Pump</span>",
+        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis."
+      ]
+    },
+    {
+      "section": "full_width_image",
+      "src": "images/casestudy/simplehuman/1.jpg",
+      "alt": "Simple Human"
+    },
+    {
+      "section": "copy_block",
+      "text_blocks": [
+        "Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi."
+      ]
+    },
+    {
+      "section": "full_width_image",
+      "src": "images/casestudy/simplehuman/2.jpg",
+      "alt": "Simple Human"
+    },
+    {
+      "section": "copy_block",
+      "text_blocks": [
+        "Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi."
+      ]
+    },
+    {
+      "section": "full_width_image",
+      "src": "images/casestudy/simplehuman/3.jpg",
+      "alt": "Simple Human"
+    },
+    {
+      "section": "copy_block",
+      "text_blocks": [
+        "Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi."
+      ]
+    },
+    {
+      "section": "full_width_image",
+      "src": "images/casestudy/simplehuman/4.jpg",
+      "alt": "Simple Human"
+    },
+    {
+      "section": "next_block",
+      "link": {
+        "copy": "Next case study",
+        "link": "/work/simplehuman"
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "slug": "news",
+  "title": "news",
+  "sections": [
+    {
+      "section": "full_width_image",
+      "src": "images/news/sensor-mirror-hifi-L2x.jpg",
+      "tabletSrc": "images/news/sensor-mirror-hifi-M2x.jpg",
+      "phoneSrc": "images/news/sensor-mirror-hifi-S2x.jpg",
+      "alt": "News - Sensor Mirror Hifi"
+    },
+    {
+      "section": "copy_expandable_block",
+      "text_blocks": [
+        "Fortune: “Simplehuman described by some as the Apple of housewares for its sleek soap dispensers, high-tech mirrors, and dish racks…”"
+      ],
+      "expandable_blocks": {
+        "title": "Read More",
+        "links": [
+          {
+            "copy": "Read Fortune Article",
+            "link": "http://fortune.com/2019/03/24/simplehuman-product-testing/"
+          }
+        ]
+      }
+    },
+    {
+      "section": "full_width_image",
+      "src": "images/casestudy/simplehuman/1.jpg",
+      "tabletSrc": "images/news/sensor-mirror-hifi-M2x.jpg",
+      "phoneSrc": "images/news/sensor-mirror-hifi-S2x.jpg",
+      "alt": "Simple Human"
+    },
+    {
+      "section": "copy_expandable_block",
+      "text_blocks": [
+        "JL VXi amplifier, Simplehuman compact mirror, and sensor can with voice control awarded 2018 Chicago Athenaeum Good Design Award."
+      ],
+      "expandable_blocks": {
+        "title": "See Projects",
+        "links": [
+          {
+            "copy": "JL VXi Amplifier",
+            "link": "/work/simplehuman"
+          },
+          {
+            "copy": "Simplehuman Compact Mirror",
+            "link": "/work/simplehuman"
+          },
+          {
+            "copy": "Simplehuman Sensor Can with Voice Control",
+            "link": "/work/simplehuman"
+          }
+        ]
+      }
+    },
+    {
+      "section": "full_width_image",
+      "src": "images/news/jl-vxi-amp-L2x.jpg",
+      "tabletSrc": "images/news/jl-vxi-amp-M2x.jpg",
+      "phoneSrc": "images/news/jl-vxi-amp-S2x.jpg",
+      "alt": "Simple Human"
+    },
+    {
+      "section": "copy_block",
+      "text_blocks": [
+        "EISA Awards 2018-2019 Best Product In-Car DSP Amplifier to JL Audio’s VX800/8i"
+      ],
+      "link": {
+        "copy": "See Project",
+        "link": "/work/simplehuman"
+      }
+    },
+    {
+      "section": "full_width_image",
+      "src": "images/news/sensor-mirror-compact-rg-L2x.jpg",
+      "tabletSrc": "images/news/sensor-mirror-compact-rg-M2x.jpg",
+      "phoneSrc": "images/news/sensor-mirror-compact-rg-S2x.jpg",
+      "alt": "Simple Human"
+    },
+    {
+      "section": "copy_block",
+      "text_blocks": [
+        "International Housewares Association awards Simplehuman Mirror Compact 2018 Global Innovation Award"
+      ],
+      "link": {
+        "copy": "See Project",
+        "link": "/work/simplehuman"
+      }
+    },
+    {
+      "section": "full_width_image",
+      "src": "images/news/foaming-soap-pump-L2x.jpg",
+      "tabletSrc": "images/news/foaming-soap-pump-M2x.jpg",
+      "phoneSrc": "images/news/foaming-soap-pump-S2x.jpg",
+      "alt": "Simple Human"
+    },
+    {
+      "section": "copy_block",
+      "text_blocks": [
+        "Simplehuman foaming sensor soap pump wins a 2017 Good Design Award from the Chicago Athenaeum Museum of Design and Architecture."
+      ],
+      "link": {
+        "copy": "See Project",
+        "link": "/work/simplehuman"
+      }
+    },
+    {
+      "section": "full_width_image",
+      "src": "images/news/infinity-kappa-series-L2x.jpg",
+      "tabletSrc": "images/news/infinity-kappa-series-M2x.jpg",
+      "phoneSrc": "images/news/infinity-kappa-series-S2x.jpg",
+      "alt": "Simple Human"
+    },
+    {
+      "section": "copy_block",
+      "text_blocks": [
+        "Infinity Kappa Series Mobile Speakers win a 2017 Good Design Award from the Chicago Athenaeum Museum of Design and Architecture."
+      ],
+      "link": {
+        "copy": "See Project",
+        "link": "/work/simplehuman"
+      }
+    },
+    {
+      "section": "next_block",
+      "link": {
+        "copy": "Next case study",
+        "link": "/work/simplehuman"
+      }
+    }
+  ]
+}
